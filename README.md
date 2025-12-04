@@ -68,7 +68,8 @@ PERSONA_ID=tu_id_de_persona_de_tavus
 REPLICA_ID=tu_id_de_replica_de_tavus
 
 Para crear tus propios Persona ID y Replica ID (Clones y Avatares) en Tavus, puedes seguir este video tutorial:
-[Tutorial de Tavus: Crear Clones y Avatares](https://www.youtube.com/watch?v=IcEs212oHRA&t=20s)
+
+[![Tutorial de Tavus: Crear Clones y Avatares](https://img.youtube.com/vi/IcEs212oHRA/0.jpg)](https://www.youtube.com/watch?v=IcEs212oHRA&t=20s)
 
 ```
 
